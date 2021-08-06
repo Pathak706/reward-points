@@ -30,7 +30,7 @@ Check solution into GitHub and share the URL(Make it Public)
 ·       SpringBoot homework should be exposing a RESTful endpoint(s) rather than generating HTML itself.
 
 # NOTE: To setup and up your project update DB credentioals in application.properties
-  - ring.datasource.username=root
-  - ring.datasource.password=M1Bl3s?V!p
-  - ancreate the db named as `rewardsdatabase` in your sql
+  - sring.datasource.username=<username>
+  - sring.datasource.password=<password>
+  - and create the db named as `rewardsdatabase` in your sql
   
